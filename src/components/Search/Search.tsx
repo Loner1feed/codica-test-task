@@ -40,7 +40,7 @@ export const Search: React.FC = () => {
   }, [value]);
 
   return (
-    <Box>
+    <Box sx={style.wrap}>
       <InputBase
         sx={style.field}
         fullWidth
