@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/codica-test-task/static/js/main.7f808af6.js",
+    "main.js": "/codica-test-task/static/js/main.c0d683b3.js",
     "static/js/787.5e52bc16.chunk.js": "/codica-test-task/static/js/787.5e52bc16.chunk.js",
     "index.html": "/codica-test-task/index.html",
-    "main.7f808af6.js.map": "/codica-test-task/static/js/main.7f808af6.js.map",
+    "main.c0d683b3.js.map": "/codica-test-task/static/js/main.c0d683b3.js.map",
     "787.5e52bc16.chunk.js.map": "/codica-test-task/static/js/787.5e52bc16.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7f808af6.js"
+    "static/js/main.c0d683b3.js"
   ]
 }
